@@ -5,7 +5,6 @@
 - 😄 Pronouns:ele/dele
 
 [![Breno Lima stats-Dark](https://github-readme-stats.vercel.app/api?username=brenolima&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/brenolima10/github-readme-stats#gh-dark-mode-only)
-[![Breno Lima stats-Light](https://github-readme-stats.vercel.app/api?username=brenolima10&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/brenolima10/github-readme-stats#gh-light-mode-only)
 
 <div align="center">
   <a href="https://github.com/brenolima10">
